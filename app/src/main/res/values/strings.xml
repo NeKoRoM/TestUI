@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test UI</string>
+    <string name="spinner">spinner Activity</string>
+</resources>
